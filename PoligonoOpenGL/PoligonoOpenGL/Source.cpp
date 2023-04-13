@@ -201,7 +201,7 @@ int main(int argc, char* args[]) {
 	glutInitDisplayMode(GLUT_RGB | GLUT_SINGLE);
 	glutInitWindowSize(800, 600);
 	glutInitWindowPosition(50, 50);
-	glutCreateWindow("Demo Gallo");
+	glutCreateWindow("Demo Galloo");
 	glutDisplayFunc(DibujarTriangulos);
 	IniciarConfiguracion();
 	glutMainLoop();
